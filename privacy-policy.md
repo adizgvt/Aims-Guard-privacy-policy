@@ -22,8 +22,8 @@ Some of the services may use location information transmitted from users' mobile
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.    
 
-## Face Data Policy  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+### Face Data Information  
+We may collect face data information only through profile picture for staff identification by Human Resources Department and will treated as `Private & Confidential`. This information will not be analyzed or extracted for any other service except staff identification by Human Resources Department.
 
 ### Service Providers  
 We may employ third-party companies and individuals due to the following reasons:  
