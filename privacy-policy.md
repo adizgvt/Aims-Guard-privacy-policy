@@ -20,7 +20,7 @@ This Services does not uses these “cookies” explicitly. However, the app may
 Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
 
 ### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.    
+We collect information from your device in some cases. The device information is used to restrict the app to allow only 1 user to login on every device. Additionally, such information will not include that which will identify the individual user.    
 
 ### Face Data Information  
 We may collect face data information only through profile picture for staff identification by Human Resources Department and will treated as `Private & Confidential`. Using profile picture to identify staff is necessary to ease the workflow for Human Resource Department. This information will not be analyzed or extracted for any other service except staff identification by Human Resources Department. 
