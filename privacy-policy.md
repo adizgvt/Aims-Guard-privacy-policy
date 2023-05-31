@@ -28,6 +28,19 @@ The picture will be removed if the following cases occur;-
 1) The user remove the profile picture
 2) The user resigned from the company
 
+#### Face Data FAQ
+##### What face data does your app collect?
+- As we concern, our app may collect face data through user’s profile picture in image format, but it is not extracted or analysed for any other service.
+
+##### How do you use the collected face data? Provide a complete and clear explanation of all planned uses of this data.
+- Human Resources department use this data to identify each of company’s staff. We only use the information as displayed image that attached to each user (staff).`Upload profile picture` features is optional to all users, but may be required if requested by Human Resources Department.
+
+##### Will the data be shared with any third parties? Where will this information be stored?
+- No, every profile picture uploaded in this app is only stored in and retrieved from our private company’s server. We do not share any of our data to any third-party.
+
+##### How long will face data be retained?
+- As long as the user did not remove or update their profile picture. The picture is also removed when the user resignes from the company.
+
 ### Service Providers  
 We may employ third-party companies and individuals due to the following reasons:  
 * To facilitate our Service;
