@@ -23,7 +23,10 @@ Some of the services may use location information transmitted from users' mobile
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.    
 
 ### Face Data Information  
-We may collect face data information only through profile picture for staff identification by Human Resources Department and will treated as `Private & Confidential`. This information will not be analyzed or extracted for any other service except staff identification by Human Resources Department.
+We may collect face data information only through profile picture for staff identification by Human Resources Department and will treated as `Private & Confidential`. Using profile picture to identify staff is necessary to ease the workflow for Human Resource Department. This information will not be analyzed or extracted for any other service except staff identification by Human Resources Department. 
+The picture will be removed if the following cases occur;-
+1) The user remove the profile picture
+2) The user resigned from the company
 
 ### Service Providers  
 We may employ third-party companies and individuals due to the following reasons:  
@@ -31,8 +34,6 @@ We may employ third-party companies and individuals due to the following reasons
 * To provide the Service on our behalf;
 * To perform Service-related services; or
 * To assist us in analyzing how our Service is used.  
-
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
 
 ### Security  
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
